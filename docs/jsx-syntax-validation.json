@@ -1,0 +1,147 @@
+{
+  "compiler": "TypeScript 5.8.3",
+  "checks": 28,
+  "passed": 28,
+  "results": [
+    {
+      "file": "src/App.jsx",
+      "passed": true,
+      "errors": []
+    },
+    {
+      "file": "src/components/ClosingCTA.jsx",
+      "passed": true,
+      "errors": []
+    },
+    {
+      "file": "src/components/FAQ.jsx",
+      "passed": true,
+      "errors": []
+    },
+    {
+      "file": "src/components/FaqItem.jsx",
+      "passed": true,
+      "errors": []
+    },
+    {
+      "file": "src/components/FeatureArt.jsx",
+      "passed": true,
+      "errors": []
+    },
+    {
+      "file": "src/components/FeatureCard.jsx",
+      "passed": true,
+      "errors": []
+    },
+    {
+      "file": "src/components/Footer.jsx",
+      "passed": true,
+      "errors": []
+    },
+    {
+      "file": "src/components/FreeWorkspace.jsx",
+      "passed": true,
+      "errors": []
+    },
+    {
+      "file": "src/components/Header.jsx",
+      "passed": true,
+      "errors": []
+    },
+    {
+      "file": "src/components/Hero.jsx",
+      "passed": true,
+      "errors": []
+    },
+    {
+      "file": "src/components/Icon.jsx",
+      "passed": true,
+      "errors": []
+    },
+    {
+      "file": "src/components/InvestorStories.jsx",
+      "passed": true,
+      "errors": []
+    },
+    {
+      "file": "src/components/MobileMenu.jsx",
+      "passed": true,
+      "errors": []
+    },
+    {
+      "file": "src/components/Modal.jsx",
+      "passed": true,
+      "errors": []
+    },
+    {
+      "file": "src/components/MotionToggle.jsx",
+      "passed": true,
+      "errors": []
+    },
+    {
+      "file": "src/components/Plans.jsx",
+      "passed": true,
+      "errors": []
+    },
+    {
+      "file": "src/components/PlatformDialog.jsx",
+      "passed": true,
+      "errors": []
+    },
+    {
+      "file": "src/components/ProductTour.jsx",
+      "passed": true,
+      "errors": []
+    },
+    {
+      "file": "src/components/ScreenshotDialog.jsx",
+      "passed": true,
+      "errors": []
+    },
+    {
+      "file": "src/components/SectionNav.jsx",
+      "passed": true,
+      "errors": []
+    },
+    {
+      "file": "src/components/TourBottom.jsx",
+      "passed": true,
+      "errors": []
+    },
+    {
+      "file": "src/components/TourHeading.jsx",
+      "passed": true,
+      "errors": []
+    },
+    {
+      "file": "src/hooks/MotionContext.jsx",
+      "passed": true,
+      "errors": []
+    },
+    {
+      "file": "src/hooks/useDropdowns.js",
+      "passed": true,
+      "errors": []
+    },
+    {
+      "file": "src/hooks/useHomepageMotion.js",
+      "passed": true,
+      "errors": []
+    },
+    {
+      "file": "src/lib/animationEngine.js",
+      "passed": true,
+      "errors": []
+    },
+    {
+      "file": "src/lib/motion.js",
+      "passed": true,
+      "errors": []
+    },
+    {
+      "file": "src/main.jsx",
+      "passed": true,
+      "errors": []
+    }
+  ]
+}

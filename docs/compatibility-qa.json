@@ -1,0 +1,1057 @@
+{
+  "environment": "Offline compatibility runner: local React/ReactDOM 18.2.0, real Chromium, native animation fallback, fallback fonts. NOT the declared React 19.3.0/Vite production build. GSAP was unavailable and was NOT simulated.",
+  "checks": 171,
+  "passed": 171,
+  "failed": 0,
+  "results": [
+    {
+      "test": "Actual local React 18.2.0 compatibility runtime mounted",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "1440px overflow",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "1440px heading",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "1440px ctas",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "1440px data selected",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "1440px data scene 1",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "1440px data scene 2",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "1440px data scene 3",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "1440px numbers selected",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "1440px numbers scene 1",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "1440px numbers scene 2",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "1440px numbers scene 3",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "1440px ai selected",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "1440px ai scene 1",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "1440px ai scene 2",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "1440px ai scene 3",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "1280px overflow",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "1280px heading",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "1280px ctas",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "1280px data selected",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "1280px data scene 1",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "1280px data scene 2",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "1280px data scene 3",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "1280px numbers selected",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "1280px numbers scene 1",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "1280px numbers scene 2",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "1280px numbers scene 3",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "1280px ai selected",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "1280px ai scene 1",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "1280px ai scene 2",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "1280px ai scene 3",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "1024px overflow",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "1024px heading",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "1024px ctas",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "1024px data selected",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "1024px data scene 1",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "1024px data scene 2",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "1024px data scene 3",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "1024px numbers selected",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "1024px numbers scene 1",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "1024px numbers scene 2",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "1024px numbers scene 3",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "1024px ai selected",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "1024px ai scene 1",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "1024px ai scene 2",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "1024px ai scene 3",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "768px overflow",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "768px heading",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "768px ctas",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "768px data selected",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "768px data scene 1",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "768px data scene 2",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "768px data scene 3",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "768px numbers selected",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "768px numbers scene 1",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "768px numbers scene 2",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "768px numbers scene 3",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "768px ai selected",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "768px ai scene 1",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "768px ai scene 2",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "768px ai scene 3",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "390px overflow",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "390px heading",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "390px ctas",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "390px data selected",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "390px data scene 1",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "390px data scene 2",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "390px data scene 3",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "390px numbers selected",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "390px numbers scene 1",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "390px numbers scene 2",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "390px numbers scene 3",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "390px ai selected",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "390px ai scene 1",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "390px ai scene 2",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "390px ai scene 3",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "360px overflow",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "360px heading",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "360px ctas",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "360px data selected",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "360px data scene 1",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "360px data scene 2",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "360px data scene 3",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "360px numbers selected",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "360px numbers scene 1",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "360px numbers scene 2",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "360px numbers scene 3",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "360px ai selected",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "360px ai scene 1",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "360px ai scene 2",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "360px ai scene 3",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "320px overflow",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "320px heading",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "320px ctas",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "320px data selected",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "320px data scene 1",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "320px data scene 2",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "320px data scene 3",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "320px numbers selected",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "320px numbers scene 1",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "320px numbers scene 2",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "320px numbers scene 3",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "320px ai selected",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "320px ai scene 1",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "320px ai scene 2",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "320px ai scene 3",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Mobile menu opens",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Modal tolerates a queued close event after reopening",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Mobile menu trigger expanded",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Open modal locks background scroll",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Mobile menu traps keyboard focus",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Escape restores menu focus",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Modal cleanup unlocks scroll",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "ArrowRight changes React tab state",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "One tab in tab order",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "End selects last tab",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Home selects first tab",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Previous wraps correctly",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Next wraps correctly",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Screenshot modal opens",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Full-size screenshot state toggles",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Screenshot modal restores trigger focus",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "FAQ 1 opens",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "FAQ 1 aria state",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "FAQ 1 closes",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "FAQ 2 opens",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "FAQ 2 aria state",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "FAQ 2 closes",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "FAQ 3 opens",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "FAQ 3 aria state",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "FAQ 3 closes",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "FAQ 4 opens",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "FAQ 4 aria state",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "FAQ 4 closes",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "FAQ 5 opens",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "FAQ 5 aria state",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "FAQ 5 closes",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "FAQ 6 opens",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "FAQ 6 aria state",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "FAQ 6 closes",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "All 48 data-driven copy blocks rendered",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Hero headline retained",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Hero description retained",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Closing copy retained",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Exactly one H1",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Nine tour scenes retained",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Six SVG illustrations retained",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "All content images have alt attributes",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Unique DOM IDs",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Reduced motion has no running animations",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Reduced motion removes smooth scrolling",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "No fabricated testimonial added",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Unapproved platform link is explicit",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Native fallback initializes when GSAP is unavailable",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Hero entrance has running native animation",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Journey change animates",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Scene change animates",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "SVG line drawing activates on scroll",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Animated FAQ opens",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Animated FAQ closes",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Rapid FAQ reversal settles correctly",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Manual motion switch works",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Switching off cancels running animations",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Reduced mode keeps content visible",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Motion can be re-enabled",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "System preference overrides manual setting",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Unmount removes the React tree",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Unmount cleans modal body lock",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Unmount cancels animations",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Unmount resets global motion attribute",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "No uncaught browser errors",
+      "passed": true,
+      "detail": []
+    }
+  ],
+  "copyChecks": [
+    {
+      "text": "Property & owner search",
+      "passed": true
+    },
+    {
+      "text": "Search nationwide property and ownership records. Combine filters for equity, ownership, and seller motivation to narrow your search.",
+      "passed": true
+    },
+    {
+      "text": "MLS & on-market search",
+      "passed": true
+    },
+    {
+      "text": "Explore active listings alongside off-market opportunities. MLS coverage and listing availability vary by market.",
+      "passed": true
+    },
+    {
+      "text": "Instant comps & valuations",
+      "passed": true
+    },
+    {
+      "text": "Review comparable sales, adjust your comp set, and estimate after-repair value (ARV) before deciding what to offer.",
+      "passed": true
+    },
+    {
+      "text": "Deal calculators",
+      "passed": true
+    },
+    {
+      "text": "Estimate renovation costs, financing, cash flow, and potential returns for a flip or rental in the same workspace.",
+      "passed": true
+    },
+    {
+      "text": "Proof of funds",
+      "passed": true
+    },
+    {
+      "text": "Create a proof-of-funds letter for your offer from the tools in your free account.",
+      "passed": true
+    },
+    {
+      "text": "Voice agent builder",
+      "passed": true
+    },
+    {
+      "text": "Build an AI voice agent on your free account. Test calls and chats use credits; calling contacts requires a paid plan.",
+      "passed": true
+    },
+    {
+      "text": "Why offer a free plan?",
+      "passed": true
+    },
+    {
+      "text": "Revamp365 charges for optional paid plans and data, AI, and communications usage. The research tools are free, so you can start with property search and analysis and add paid tools when you need them.",
+      "passed": true
+    },
+    {
+      "text": "Is the free account a trial?",
+      "passed": true
+    },
+    {
+      "text": "No. The free plan has no monthly subscription or trial deadline, and you do not need a credit card to create an account. Paid tools and usage charges are separate.",
+      "passed": true
+    },
+    {
+      "text": "What can I do first?",
+      "passed": true
+    },
+    {
+      "text": "Create your account, search a property or market, and open a property record. Review comparable sales and use the flip or rental calculator to explore your numbers.",
+      "passed": true
+    },
+    {
+      "text": "What costs extra?",
+      "passed": true
+    },
+    {
+      "text": "Skip tracing, deep tracing, and AI test calls and chats use credits on Free. List exports, buyer-search tools, CRM workflows, and outbound campaigns require a paid plan. AI and communications usage is billed separately from the subscription.",
+      "passed": true
+    },
+    {
+      "text": "Can I search my market without an MLS login?",
+      "passed": true
+    },
+    {
+      "text": "Yes. You can search nationwide property records and browse available on-market listings through Revamp365. MLS coverage, listing availability, and record detail vary by market.",
+      "passed": true
+    },
+    {
+      "text": "How do I get the $5 starter credit?",
+      "passed": true
+    },
+    {
+      "text": "Create your free account and verify your phone number to claim the credit. Use it toward skip tracing, deep tracing, or AI testing. Credits do not expire; additional usage requires available credits.",
+      "passed": true
+    },
+    {
+      "text": "Find properties that fit your strategy.",
+      "passed": true
+    },
+    {
+      "text": "Search property and owner records, explore available listings, and combine filters to narrow your market.",
+      "passed": true
+    },
+    {
+      "text": "Search an address, owner, LLC, or market.",
+      "passed": true
+    },
+    {
+      "text": "Look up an address or explore a market. On-market listing availability and MLS coverage vary by location.",
+      "passed": true
+    },
+    {
+      "text": "Get the context behind an address.",
+      "passed": true
+    },
+    {
+      "text": "Property facts, photos, MLS context, ownership, transactions, taxes, mortgages, and equity stay connected.",
+      "passed": true
+    },
+    {
+      "text": "Narrow your search to the properties that fit.",
+      "passed": true
+    },
+    {
+      "text": "Combine location, ownership, equity, and motivation filters. Search for free; exporting a marketing list requires a paid plan.",
+      "passed": true
+    },
+    {
+      "text": "Check the comps. Work out your offer.",
+      "passed": true
+    },
+    {
+      "text": "Review comparable sales, estimate after-repair value, and model renovation costs and potential returns.",
+      "passed": true
+    },
+    {
+      "text": "Start with the sales that actually matter.",
+      "passed": true
+    },
+    {
+      "text": "Control property type, recency, size, and distance before a comparable sale influences your decision.",
+      "passed": true
+    },
+    {
+      "text": "Build an opinion of value you can defend.",
+      "passed": true
+    },
+    {
+      "text": "See AVM, ARV, accuracy, price-per-foot, and market context together\u2014then refine the comp set as needed.",
+      "passed": true
+    },
+    {
+      "text": "Model the deal without rebuilding a spreadsheet.",
+      "passed": true
+    },
+    {
+      "text": "Pressure-test purchase, holding, financing, rent, rehab, and resale assumptions in the same property workspace.",
+      "passed": true
+    },
+    {
+      "text": "Connect AI calls with follow-up.",
+      "passed": true
+    },
+    {
+      "text": "Build an agent on Free and test it with credits. Paid plans unlock outbound campaigns and CRM follow-up; usage charges apply.",
+      "passed": true
+    },
+    {
+      "text": "Give the agent a role, voice, and objective.",
+      "passed": true
+    },
+    {
+      "text": "Describe the role and objective to build your agent. Test calls and chats use credits, including your $5 starter credit after phone verification.",
+      "passed": true
+    },
+    {
+      "text": "Connect the agent to the right audience.",
+      "passed": true
+    },
+    {
+      "text": "Choose an audience and agent for an outbound campaign. Calling contacts requires a paid plan and has usage charges.",
+      "passed": true
+    },
+    {
+      "text": "Keep every opportunity moving after the call.",
+      "passed": true
+    },
+    {
+      "text": "Coordinate calls, follow-up, notes, outcomes, and next actions without losing the context that found the deal.",
+      "passed": true
+    }
+  ]
+}

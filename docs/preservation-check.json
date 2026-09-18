@@ -1,0 +1,126 @@
+{
+  "comparisons": 20,
+  "identical": 20,
+  "files": [
+    {
+      "original": "assets/css/styles.css",
+      "react": "src/styles/homepage.css",
+      "byte_identical": true,
+      "sha256": "aeea04f65e7e4ad800a6106a5814b07c70f75173bd1fd429217655cd9349002c"
+    },
+    {
+      "original": "docs/content-inventory.json",
+      "react": "src/data/content.json",
+      "byte_identical": true,
+      "sha256": "dbb7359e18a795c956755e214216e2527462d4eddb6ce84405d19e27079acd48"
+    },
+    {
+      "original": "docs/icons.json",
+      "react": "src/data/icons.json",
+      "byte_identical": true,
+      "sha256": "8c6e42b813872299dfa5ef4a34d54718e1c8b6a163bd051532f39afda19b736a"
+    },
+    {
+      "original": "assets/images/agent-builder.webp",
+      "react": "public/assets/images/agent-builder.webp",
+      "byte_identical": true,
+      "sha256": "227a7d8ea70c4573a0cb24d058dd9d46408bcec9c9b2fb0a514ad60ae19a51dd"
+    },
+    {
+      "original": "assets/images/calculator.webp",
+      "react": "public/assets/images/calculator.webp",
+      "byte_identical": true,
+      "sha256": "3c1647a3c9840b62d8813d0ce0d915d1e4ff917535659270bfd8ec4c5fa5f045"
+    },
+    {
+      "original": "assets/images/campaigns.webp",
+      "react": "public/assets/images/campaigns.webp",
+      "byte_identical": true,
+      "sha256": "a4d69298189f011400fadee3aaa7ccd5ac6cb18789b8d6e74f193c964d4e4f66"
+    },
+    {
+      "original": "assets/images/comps.webp",
+      "react": "public/assets/images/comps.webp",
+      "byte_identical": true,
+      "sha256": "a6f18f23867f847335e7e7d29b289cd000ddba0eaaf581d0104b4994bc2ba9a6"
+    },
+    {
+      "original": "assets/images/favicon.svg",
+      "react": "public/assets/images/favicon.svg",
+      "byte_identical": true,
+      "sha256": "1b8da75dc9a9bdeb2d49e1d20afd78b2d7bf766ec1b6c927bac339658af6c3da"
+    },
+    {
+      "original": "assets/images/feature-1.svg",
+      "react": "public/assets/images/feature-1.svg",
+      "byte_identical": true,
+      "sha256": "6499f511ec78643a8328fe7134995ebd10fcbc207d71c55cf88f16a528329e35"
+    },
+    {
+      "original": "assets/images/feature-2.svg",
+      "react": "public/assets/images/feature-2.svg",
+      "byte_identical": true,
+      "sha256": "d5c6958a4b6122bfecb497bca31a23261ebdc996b0309338d2b55899ec9be281"
+    },
+    {
+      "original": "assets/images/feature-3.svg",
+      "react": "public/assets/images/feature-3.svg",
+      "byte_identical": true,
+      "sha256": "d7f630887e9ed1e55897dcb24188325bacfa6a9baa63c65a7020158e7163034c"
+    },
+    {
+      "original": "assets/images/feature-4.svg",
+      "react": "public/assets/images/feature-4.svg",
+      "byte_identical": true,
+      "sha256": "fe3689fc474a772c755e10e172e3422db0cde2102ece0843e80fc5b2e1214aee"
+    },
+    {
+      "original": "assets/images/feature-5.svg",
+      "react": "public/assets/images/feature-5.svg",
+      "byte_identical": true,
+      "sha256": "561c8794fe7872ae71683d09e2b69d0b110781f819d3cfa18ff78f29dd33f11e"
+    },
+    {
+      "original": "assets/images/feature-6.svg",
+      "react": "public/assets/images/feature-6.svg",
+      "byte_identical": true,
+      "sha256": "4b49175fe29c10cb47ab65d61f3f9a961be6e4b4b424d7c526dc056049ce6242"
+    },
+    {
+      "original": "assets/images/filters.webp",
+      "react": "public/assets/images/filters.webp",
+      "byte_identical": true,
+      "sha256": "ca4b40267182416ecdbbdc37f86e211afc9ad399e1ebe85f0f567ec7694b71d2"
+    },
+    {
+      "original": "assets/images/property-record.webp",
+      "react": "public/assets/images/property-record.webp",
+      "byte_identical": true,
+      "sha256": "faa377e891a6df66768be31c1c5f6cfc5bf4d4e97d71c9bbeefd4ceae557c2ea"
+    },
+    {
+      "original": "assets/images/revamp-logo.png",
+      "react": "public/assets/images/revamp-logo.png",
+      "byte_identical": true,
+      "sha256": "6994ef61f77c4497098d27ecaec9144891079c6305045db22d32d4224267ac81"
+    },
+    {
+      "original": "assets/images/search.webp",
+      "react": "public/assets/images/search.webp",
+      "byte_identical": true,
+      "sha256": "dd83b3918db80a0592e3f62373c11f7ed6e8a636bdc67ba93e60ecfdf43775a8"
+    },
+    {
+      "original": "assets/images/valuation.webp",
+      "react": "public/assets/images/valuation.webp",
+      "byte_identical": true,
+      "sha256": "6364777dc3af0e03f94955bd95dd1f114b1b94da36664d92f252f1edcf53bc57"
+    },
+    {
+      "original": "assets/images/workflows.webp",
+      "react": "public/assets/images/workflows.webp",
+      "byte_identical": true,
+      "sha256": "75f6d78059b93e9b87f9b18cd0b3d4542b61a11ae28ca3e9b35cabce40862fa2"
+    }
+  ]
+}

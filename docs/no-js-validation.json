@@ -1,0 +1,25 @@
+{
+  "environment": "Chromium with JavaScript disabled; local inlined CSS and assets; fonts not downloaded",
+  "checks": [
+    {
+      "name": "All nine static tour scenes visible",
+      "passed": true
+    },
+    {
+      "name": "Screenshot enlargement uses real links",
+      "passed": true
+    },
+    {
+      "name": "FAQ native disclosure works without JavaScript",
+      "passed": true
+    },
+    {
+      "name": "FAQ answer opens without JavaScript",
+      "passed": true
+    },
+    {
+      "name": "Unused modal dialogs removed",
+      "passed": true
+    }
+  ]
+}

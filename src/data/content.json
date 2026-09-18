@@ -1,0 +1,179 @@
+{
+  "features": [
+    [
+      "search",
+      "Find your next opportunity",
+      "Property & owner search",
+      "Search nationwide property and ownership records. Combine filters for equity, ownership, and seller motivation to narrow your search.",
+      "Included free",
+      "data",
+      0
+    ],
+    [
+      "home",
+      "See the live market",
+      "MLS & on-market search",
+      "Explore active listings alongside off-market opportunities. MLS coverage and listing availability vary by market.",
+      "Included free",
+      "data",
+      0
+    ],
+    [
+      "layers",
+      "Underwrite with an edge",
+      "Instant comps & valuations",
+      "Review comparable sales, adjust your comp set, and estimate after-repair value (ARV) before deciding what to offer.",
+      "Included free",
+      "numbers",
+      0
+    ],
+    [
+      "calculator",
+      "Run the numbers",
+      "Deal calculators",
+      "Estimate renovation costs, financing, cash flow, and potential returns for a flip or rental in the same workspace.",
+      "Included free",
+      "numbers",
+      2
+    ],
+    [
+      "document",
+      "Move with confidence",
+      "Proof of funds",
+      "Create a proof-of-funds letter for your offer from the tools in your free account.",
+      "Included free",
+      null,
+      null
+    ],
+    [
+      "voice",
+      "Build with AI",
+      "Voice agent builder",
+      "Build an AI voice agent on your free account. Test calls and chats use credits; calling contacts requires a paid plan.",
+      "Testing uses credits",
+      "ai",
+      0
+    ]
+  ],
+  "journeys": [
+    {
+      "id": "data",
+      "label": "Explore the data",
+      "badge": "Free research",
+      "headline": "Find properties that fit your strategy.",
+      "description": "Search property and owner records, explore available listings, and combine filters to narrow your market.",
+      "icon": "search",
+      "scenes": [
+        {
+          "title": "Search an address, owner, LLC, or market.",
+          "caption": "Look up an address or explore a market. On-market listing availability and MLS coverage vary by location.",
+          "short": "Property + on-market search",
+          "image": "search",
+          "boundary": "Included on Free"
+        },
+        {
+          "title": "Get the context behind an address.",
+          "caption": "Property facts, photos, MLS context, ownership, transactions, taxes, mortgages, and equity stay connected.",
+          "short": "One connected property record",
+          "image": "property-record",
+          "boundary": "Included on Free"
+        },
+        {
+          "title": "Narrow your search to the properties that fit.",
+          "caption": "Combine location, ownership, equity, and motivation filters. Search for free; exporting a marketing list requires a paid plan.",
+          "short": "Investor list building",
+          "image": "filters",
+          "boundary": "Search free / Export on paid"
+        }
+      ]
+    },
+    {
+      "id": "numbers",
+      "label": "Run the numbers",
+      "badge": "Free analysis",
+      "headline": "Check the comps. Work out your offer.",
+      "description": "Review comparable sales, estimate after-repair value, and model renovation costs and potential returns.",
+      "icon": "chart",
+      "scenes": [
+        {
+          "title": "Start with the sales that actually matter.",
+          "caption": "Control property type, recency, size, and distance before a comparable sale influences your decision.",
+          "short": "Relevant comps",
+          "image": "comps",
+          "boundary": "Free analysis"
+        },
+        {
+          "title": "Build an opinion of value you can defend.",
+          "caption": "See AVM, ARV, accuracy, price-per-foot, and market context together\u2014then refine the comp set as needed.",
+          "short": "Instant valuation",
+          "image": "valuation",
+          "boundary": "Free analysis"
+        },
+        {
+          "title": "Model the deal without rebuilding a spreadsheet.",
+          "caption": "Pressure-test purchase, holding, financing, rent, rehab, and resale assumptions in the same property workspace.",
+          "short": "Deal math",
+          "image": "calculator",
+          "boundary": "Free analysis"
+        }
+      ]
+    },
+    {
+      "id": "ai",
+      "label": "Put AI to work",
+      "badge": "Paid + usage",
+      "headline": "Connect AI calls with follow-up.",
+      "description": "Build an agent on Free and test it with credits. Paid plans unlock outbound campaigns and CRM follow-up; usage charges apply.",
+      "icon": "voice",
+      "scenes": [
+        {
+          "title": "Give the agent a role, voice, and objective.",
+          "caption": "Describe the role and objective to build your agent. Test calls and chats use credits, including your $5 starter credit after phone verification.",
+          "short": "Build free / Test with credits",
+          "image": "agent-builder",
+          "boundary": "Build free / Test with credits"
+        },
+        {
+          "title": "Connect the agent to the right audience.",
+          "caption": "Choose an audience and agent for an outbound campaign. Calling contacts requires a paid plan and has usage charges.",
+          "short": "Paid plan + usage",
+          "image": "campaigns",
+          "boundary": "Paid plan + usage"
+        },
+        {
+          "title": "Keep every opportunity moving after the call.",
+          "caption": "Coordinate calls, follow-up, notes, outcomes, and next actions without losing the context that found the deal.",
+          "short": "Paid CRM workflows",
+          "image": "workflows",
+          "boundary": "Paid CRM workflows"
+        }
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Why offer a free plan?",
+      "a": "Revamp365 charges for optional paid plans and data, AI, and communications usage. The research tools are free, so you can start with property search and analysis and add paid tools when you need them."
+    },
+    {
+      "q": "Is the free account a trial?",
+      "a": "No. The free plan has no monthly subscription or trial deadline, and you do not need a credit card to create an account. Paid tools and usage charges are separate."
+    },
+    {
+      "q": "What can I do first?",
+      "a": "Create your account, search a property or market, and open a property record. Review comparable sales and use the flip or rental calculator to explore your numbers."
+    },
+    {
+      "q": "What costs extra?",
+      "a": "Skip tracing, deep tracing, and AI test calls and chats use credits on Free. List exports, buyer-search tools, CRM workflows, and outbound campaigns require a paid plan. AI and communications usage is billed separately from the subscription."
+    },
+    {
+      "q": "Can I search my market without an MLS login?",
+      "a": "Yes. You can search nationwide property records and browse available on-market listings through Revamp365. MLS coverage, listing availability, and record detail vary by market."
+    },
+    {
+      "q": "How do I get the $5 starter credit?",
+      "a": "Create your free account and verify your phone number to claim the credit. Use it toward skip tracing, deep tracing, or AI testing. Credits do not expire; additional usage requires available credits."
+    }
+  ]
+}

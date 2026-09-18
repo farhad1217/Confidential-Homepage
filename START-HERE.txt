@@ -1,0 +1,31 @@
+CONFIDENTIAL HOMEPAGE - REACT / VITE
+
+1. Extract the ZIP.
+2. Open the folder named "Confidential Homepage".
+3. Install Node.js 22.x (22.12 or newer).
+4. Open a terminal in this folder and run:
+
+   npm install
+   npm run dev
+
+5. Open http://127.0.0.1:5173
+
+WINDOWS SHORTCUT
+Double-click START-DEV.bat. It installs dependencies if needed and starts Vite.
+
+VERCEL
+Framework Preset: Vite
+Install Command: npm install
+Build Command: npm run build
+Output Directory: dist
+Node.js: 22.x
+Root Directory: the folder containing package.json and vercel.json
+
+Upload the files INSIDE this folder to the Git repository root.
+Do not upload the ZIP, node_modules, old Python test tooling or old static build scripts.
+Do not reuse the old package-lock.json. npm install will create a new one.
+
+This is a React application: do not double-click index.html to run it.
+
+Read README.md and docs/VERCEL-DEPLOY.md for the full instructions.
+Read docs/QA-REPORT.md for the disclosed build/network testing limitation.
